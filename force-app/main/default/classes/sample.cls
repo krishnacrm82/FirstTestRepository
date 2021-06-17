@@ -8,6 +8,6 @@ public void method1(){
     system.System.debug('Sample class 3');
     system.System.debug('two three');
     system.system.debug('Sample Class 4');
-    system.system.debug('three three');
+    system.system.debug('three three four');
 }
 }
